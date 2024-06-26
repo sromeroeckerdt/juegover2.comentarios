@@ -1,0 +1,2 @@
+alert('Hacé click hasta encontrar el panda para saber más sobre este hermoso oso, ¡Podes guiarte con las pistas que aparecen debajo del mapa 😊!');
+//el "alert" que da javascript por defecto, no está modificado, simplemente hace pop up cuando se inicia la web, en este caso el juego
